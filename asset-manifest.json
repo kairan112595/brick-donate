@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.ebb1227e.css",
-    "main.js": "/static/js/main.69519f15.js",
-    "static/media/building.FBX": "/static/media/building.3c0a59016f4302f66a47.FBX",
+    "main.css": "/static/css/main.c32f558b.css",
+    "main.js": "/static/js/main.051aa0bc.js",
+    "static/media/LowPolyTrees.glb": "/static/media/LowPolyTrees.2524a6f35662b4924a73.glb",
     "static/media/env_source.hdr": "/static/media/env_source.06eb39d2d87638f9f160.hdr",
     "static/media/pano-sky.jpg": "/static/media/pano-sky.6dea74b438169e178d83.jpg",
-    "static/media/ground.JPG": "/static/media/ground.5a0f8a17f65f83e226ef.JPG",
+    "static/media/grass-soil.jpg": "/static/media/grass-soil.59ef6ba0752212bba634.jpg",
+    "static/media/ground.FBX": "/static/media/ground.752e3936780746070aa1.FBX",
+    "static/media/grass.jpg": "/static/media/grass.ff1e23613a3c3b5759cc.jpg",
     "index.html": "/index.html",
-    "main.ebb1227e.css.map": "/static/css/main.ebb1227e.css.map",
-    "main.69519f15.js.map": "/static/js/main.69519f15.js.map"
+    "main.c32f558b.css.map": "/static/css/main.c32f558b.css.map",
+    "main.051aa0bc.js.map": "/static/js/main.051aa0bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebb1227e.css",
-    "static/js/main.69519f15.js"
+    "static/css/main.c32f558b.css",
+    "static/js/main.051aa0bc.js"
   ]
 }
