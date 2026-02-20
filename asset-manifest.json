@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c32f558b.css",
-    "main.js": "/static/js/main.051aa0bc.js",
+    "main.js": "/static/js/main.77378a79.js",
     "static/media/LowPolyTrees.glb": "/static/media/LowPolyTrees.2524a6f35662b4924a73.glb",
     "static/media/env_source.hdr": "/static/media/env_source.06eb39d2d87638f9f160.hdr",
     "static/media/pano-sky.jpg": "/static/media/pano-sky.6dea74b438169e178d83.jpg",
@@ -10,10 +10,10 @@
     "static/media/grass.jpg": "/static/media/grass.ff1e23613a3c3b5759cc.jpg",
     "index.html": "/index.html",
     "main.c32f558b.css.map": "/static/css/main.c32f558b.css.map",
-    "main.051aa0bc.js.map": "/static/js/main.051aa0bc.js.map"
+    "main.77378a79.js.map": "/static/js/main.77378a79.js.map"
   },
   "entrypoints": [
     "static/css/main.c32f558b.css",
-    "static/js/main.051aa0bc.js"
+    "static/js/main.77378a79.js"
   ]
 }
